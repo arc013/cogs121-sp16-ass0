@@ -20,8 +20,8 @@
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "express3-handlebars": "^0.5.2",
-    "mongodb": "^2.1.14",
-    "mongoose": "^4.4.10"
+    "mongodb": "^1.4.30",
+    "mongoose": "^3.8.23"
   },
   "scripts" : {
     "prestart": "mongod --dbpath dbpath --logpath log/mongod.log&",
